@@ -13,5 +13,16 @@
   "license": "ISC",
   "devDependencies": {
     "jquery": "^3.1.1"
-  }
+  },
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hosamsam/meterjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hosamsam/meterjs/issues"
+  },
+  "homepage": "https://github.com/hosamsam/meterjs#readme"
 }
