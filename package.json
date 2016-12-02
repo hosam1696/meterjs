@@ -1,0 +1,14 @@
+{
+  "name": "meterjs",
+  "version": "1.0.0",
+  "description": "meterjs is simple plugin places on top of your page to show the user how much percentage he scrolls",
+  "main": "script.js",
+  "scripts": {
+    "test": "meter"
+  },
+  "keywords": [
+    "meter"
+  ],
+  "author": "Hosam Elnabawy",
+  "license": "ISC"
+}
