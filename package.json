@@ -10,5 +10,8 @@
     "meter"
   ],
   "author": "Hosam Elnabawy",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "^3.1.1"
+  }
 }
